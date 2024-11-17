@@ -1,4 +1,4 @@
-# Laravel 11 PHP 8.4 Nginx Redis Supervisor
+# Docker Laravel 11 PHP 8.4 Nginx Redis Supervisor
 
 Passo a passo da Criação do Docker com Laravel 11 + PHP 8.4 + Nginx + Redis + Supervisor
 
