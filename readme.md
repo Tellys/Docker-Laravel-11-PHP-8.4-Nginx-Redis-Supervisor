@@ -22,7 +22,7 @@ A imagem docker será capaz de criar containers com as seguintes aplicações:
 
 # Vídeos Tutorial
 
-[Passo a passo da Criação do Docker com Laravel 11 + PHP 8.4 + Nginx + Redis + Supervisor](https://www.youtube.com/@tellyscastro5971)
+[Passo a passo da Criação do Docker com Laravel 11 + PHP 8.4 + Nginx + Redis + Supervisor](https://youtu.be/zYGFUk29nVU)
 
 # Passo a Passo para a instalção do Container Docker
 - Aqui partimos do princípio que você já esteja com o Docker configurado em sua máquina, o qual será necessário para rodar os comandos abaixo.
